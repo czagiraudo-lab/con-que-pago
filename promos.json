@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-26T07:40:00-03:00",
-  "nota": "21 promos: nafta 13, súper 7, comida 1, carnicería 0. Revisión del 26/10: sin cambios. Casi todas vencen el 31/10; todavía no salieron las de noviembre.",
+  "actualizado": "2026-10-26T12:00:00-03:00",
+  "nota": "21 promos: nafta 13, súper 7, comida 1, carnicería 0. Segunda revisión del 26/10: sin cambios. Casi todas vencen el 31/10; todavía no salieron las de noviembre.",
   "promos": [
     {"id":"macro-ypf-selecta","rubro":"nafta","comercio":"YPF","banco":"macro","banco_nombre":"Macro Selecta","segmento":"selecta","medios":["macro_visa","macro_master"],"pago":"MODO desde la app Macro, con la Visa o Master Selecta","dias":[3],"desde":"2026-10-01","hasta":"2026-10-31","pct":30,"tope":15000,"periodo":"mes","minimo":0,"tope_grupo":"macro-ypf","confianza":"medios","nota":"Dos notas de octubre coinciden en tope $15.000 por mes (alguna decía $20.000). Confirmalo en la app de Macro.","fuente":"https://derechadiario.com.ar/negocios-finanzas/promociones-en-combustibles-en-octubre-2026-como-ahorrar-30-en-ypf-shell-gulf","fuente_nombre":"La Derecha Diario","revisada":"2026-10-19"},
     {"id":"macro-ypf-general","rubro":"nafta","comercio":"YPF","banco":"macro","banco_nombre":"Macro","segmento":null,"medios":["macro_visa","macro_master"],"pago":"MODO desde la app Macro, con Visa o Mastercard","dias":[3],"desde":"2026-10-01","hasta":"2026-10-31","pct":20,"tope":10000,"periodo":"mes","minimo":0,"tope_grupo":"macro-ypf","confianza":"medios","nota":"Si sos Selecta te corresponde la del 30%; comparten tope.","fuente":"https://derechadiario.com.ar/negocios-finanzas/promociones-en-combustibles-en-octubre-2026-como-ahorrar-30-en-ypf-shell-gulf","fuente_nombre":"La Derecha Diario","revisada":"2026-10-19"},
