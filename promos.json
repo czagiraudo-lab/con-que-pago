@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-08T07:30:00-03:00",
-  "nota": "28 promos: nafta 17, súper 10, comida 1, carnicería 0 (las de carnicerías de noviembre siguen siendo de Hipotecario y Cuenta DNI). Nueva: Shell Box 10% en V-Power los miércoles. Ojo: el día de nafta de Galicia sale 10/11 o 17/11 según la nota.",
+  "actualizado": "2026-11-09T07:30:00-03:00",
+  "nota": "28 promos: nafta 17, súper 10, comida 1, carnicería 0 (las de carnicerías de noviembre siguen siendo de Hipotecario y Cuenta DNI). Sin novedades hoy. Galicia nafta: las notas siguen sin ponerse de acuerdo (martes 10/11 o martes 17/11); quedan las dos fechas, es un solo día con un solo tope.",
   "promos": [
     {
       "id": "macro-ypf-selecta",
@@ -183,20 +183,21 @@
       "pago": "la Mastercard Galicia: QR, pago sin contacto o MODO desde la app Galicia",
       "dias": [],
       "fechas": [
-        "2026-11-10"
+        "2026-11-10",
+        "2026-11-17"
       ],
       "desde": "2026-11-10",
-      "hasta": "2026-11-10",
+      "hasta": "2026-11-17",
       "pct": 10,
       "tope": 10000,
       "periodo": "mes",
       "minimo": 0,
       "tope_grupo": "galicia-nafta-dia10",
       "confianza": "medios",
-      "nota": "Solo el martes 10/11. 10% tope $10.000 para clientes en general; Éminent 15% (tope $15.000), sueldo en Galicia 20% (tope $15.000), sueldo + Éminent 25% (tope $20.000). Ojo: La Derecha Diario dice que el día es el 17/11; Calcular Sueldo dice el 10/11. Confirmalo en la app Galicia antes de cargar.",
+      "nota": "Es UN solo día: Calcular Sueldo dice martes 10/11; iProfesional y La Derecha Diario dicen martes 17/11. Confirmalo en la app Galicia antes de cargar. 10% tope $10.000 para clientes en general; Éminent 15% (tope $15.000), sueldo en Galicia 20% (tope $15.000), sueldo + Éminent 25% (tope $20.000).",
       "fuente": "https://calcularsueldo.com.ar/finanzas/16398/galicia-lanza-descuentos-de-hasta-50-en-colectivos-y-25-en-combustible-en-noviembre.html",
       "fuente_nombre": "Calcular Sueldo",
-      "revisada": "2026-11-08"
+      "revisada": "2026-11-09"
     },
     {
       "id": "bbva-nafta-sabado",
