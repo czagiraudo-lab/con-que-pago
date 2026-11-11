@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-10T07:30:00-03:00",
-  "nota": "28 promos: nafta 17, súper 10, comida 1, carnicería 0 (las de carnicerías de noviembre siguen siendo de Hipotecario y Cuenta DNI). Sin novedades hoy. Galicia nafta: Calcular Sueldo (02/11) confirma HOY martes 10/11; algunas notas dicen 17/11, por eso quedan las dos fechas (un solo día, un solo tope).",
+  "actualizado": "2026-11-11T07:30:00-03:00",
+  "nota": "28 promos: nafta 17, súper 10, comida 1, carnicería 0 (las de carnicerías de noviembre siguen siendo de Hipotecario, Nación y Cuenta DNI). Sin promos nuevas. Galicia nafta queda solo para el martes 17/11. Hoy miércoles: Macro Selecta 30% en YPF/Shell/Axion/Puma.",
   "promos": [
     {
       "id": "macro-ypf-selecta",
@@ -183,10 +183,9 @@
       "pago": "la Mastercard Galicia: QR, pago sin contacto o MODO desde la app Galicia",
       "dias": [],
       "fechas": [
-        "2026-11-10",
         "2026-11-17"
       ],
-      "desde": "2026-11-10",
+      "desde": "2026-11-17",
       "hasta": "2026-11-17",
       "pct": 10,
       "tope": 10000,
@@ -194,10 +193,10 @@
       "minimo": 0,
       "tope_grupo": "galicia-nafta-dia10",
       "confianza": "medios",
-      "nota": "Es UN solo día: Calcular Sueldo (02/11) dice martes 10/11 (hoy); iProfesional y La Derecha Diario dicen martes 17/11. Si hoy no te aparece en la app Galicia, esperá al 17. 10% tope $10.000 para clientes en general; Éminent 15% (tope $15.000), sueldo en Galicia 20% (tope $15.000), sueldo + Éminent 25% (tope $20.000).",
+      "nota": "Es UN solo día. iProfesional y La Derecha Diario dicen martes 17/11 (Calcular Sueldo decía 10/11; si ya la usaste el 10, no vuelve). Confirmalo en la app Galicia. 10% tope $10.000 para clientes en general; Éminent 15% (tope $15.000), sueldo en Galicia 20% (tope $15.000), sueldo + Éminent 25% (tope $20.000).",
       "fuente": "https://calcularsueldo.com.ar/finanzas/16398/galicia-lanza-descuentos-de-hasta-50-en-colectivos-y-25-en-combustible-en-noviembre.html",
       "fuente_nombre": "Calcular Sueldo",
-      "revisada": "2026-11-10"
+      "revisada": "2026-11-11"
     },
     {
       "id": "bbva-nafta-sabado",
