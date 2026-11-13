@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-12T07:30:00-03:00",
-  "nota": "28 promos: nafta 17, súper 10, comida 1, carnicería 0 (en carnicerías siguen solo Hipotecario, Nación y Cuenta DNI). Sin novedades confirmadas. Hoy jueves en nafta: Mercado Pago 10% en Gulf (a confirmar) o 6% de noche con la App YPF; mañana viernes Comafi en Puma.",
+  "actualizado": "2026-11-13T07:30:00-03:00",
+  "nota": "28 promos: nafta 17, súper 10, comida 1, carnicería 0 (en carnicerías siguen solo Hipotecario, Nación y Cuenta DNI). Sin novedades; iProUP (04/11) confirma Macro 30% Selecta los miércoles. Hoy viernes en nafta: Comafi 20% en Puma; con Nación, 25% en Shell.",
   "promos": [
     {
       "id": "macro-ypf-selecta",
@@ -25,10 +25,10 @@
       "minimo": 0,
       "tope_grupo": "macro-ypf",
       "confianza": "medios",
-      "nota": "Noviembre: 30% los miércoles con tope $20.000 por mes, en YPF, Shell, Axion y Puma (iProfesional 02/11). Comparte tope con la versión común.",
-      "fuente": "https://www.iprofesional.com/energia/468036-ahorros-en-nafta-noviembre-llega-con-descuentas-de-hasta-el-30",
-      "fuente_nombre": "iProfesional",
-      "revisada": "2026-11-06"
+      "nota": "Noviembre: 30% los miércoles con tope $20.000 por mes, en YPF, Shell, Axion y Puma (iProfesional 02/11 e iProUP 04/11). Comparte tope con la versión común.",
+      "fuente": "https://www.iproup.com/finanzas/72893-hasta-30-off-en-nafta-y-combustible-en-noviembre-con-bancos-y-apps-adheridas",
+      "fuente_nombre": "iProUP",
+      "revisada": "2026-11-13"
     },
     {
       "id": "macro-ypf-general",
