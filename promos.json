@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-17T12:00:00-03:00",
-  "nota": "27 promos: nafta 16, súper 10, comida 1, carnicería 0. Saqué la de Galicia en nafta: según calcularsueldo (02/11) fue solo el martes 10/11; el «17/11» venía de 2025. Hoy martes en nafta: Mercado Pago 10% en Gulf.",
+  "actualizado": "2026-11-18T08:00:00-03:00",
+  "nota": "27 promos: nafta 16, súper 10, comida 1, carnicería 0. Sin novedades nuevas hoy; Macro, Puma y Shell Box de los miércoles siguen confirmadas en notas de noviembre. Hoy miércoles en nafta: Macro Selecta 30% (tope $20.000/mes).",
   "promos": [
     {
       "id": "macro-ypf-selecta",
@@ -28,7 +28,7 @@
       "nota": "Noviembre: 30% los miércoles con tope $20.000 por mes, en YPF, Shell, Axion y Puma (iProfesional 02/11 e iProUP 04/11). Comparte tope con la versión común.",
       "fuente": "https://www.iproup.com/finanzas/72893-hasta-30-off-en-nafta-y-combustible-en-noviembre-con-bancos-y-apps-adheridas",
       "fuente_nombre": "iProUP",
-      "revisada": "2026-11-13"
+      "revisada": "2026-11-18"
     },
     {
       "id": "macro-ypf-general",
@@ -752,7 +752,7 @@
       "minimo": 0,
       "tope_grupo": "shellbox-vpower",
       "confianza": "medios",
-      "nota": "Noviembre: 10% los miércoles solo en V-Power (no en Súper), tope $5.000 por semana. Se puede sumar a la promo del banco si pagás con MODO desde Shell Box.",
+      "nota": "Noviembre: 10% los miércoles solo en V-Power (no en Súper), tope $5.000 por semana (otra nota dice $4.000: fijate en Shell Box). Se puede sumar a la promo del banco si pagás con MODO desde Shell Box.",
       "fuente": "https://derechadiario.com.ar/negocios-finanzas/promociones-en-combustibles-como-ahorrar-30-en-ypf-shell-axion-puma-en-noviembre-2026",
       "fuente_nombre": "La Derecha Diario",
       "revisada": "2026-11-08"
