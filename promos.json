@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-18T08:00:00-03:00",
-  "nota": "27 promos: nafta 16, súper 10, comida 1, carnicería 0. Sin novedades nuevas hoy; Macro, Puma y Shell Box de los miércoles siguen confirmadas en notas de noviembre. Hoy miércoles en nafta: Macro Selecta 30% (tope $20.000/mes).",
+  "actualizado": "2026-11-19T08:00:00-03:00",
+  "nota": "28 promos: nafta 17, súper 10, comida 1, carnicería 0. Nuevo: Santander Select en Shell los jueves 15%. Hoy jueves no hay promo de nafta con los bancos de Pablo; súper: Carrefour con Mercado Pago 15%.",
   "promos": [
     {
       "id": "macro-ypf-selecta",
@@ -756,6 +756,34 @@
       "fuente": "https://derechadiario.com.ar/negocios-finanzas/promociones-en-combustibles-como-ahorrar-30-en-ypf-shell-axion-puma-en-noviembre-2026",
       "fuente_nombre": "La Derecha Diario",
       "revisada": "2026-11-08"
+    },
+    {
+      "id": "santander-shell-jueves",
+      "rubro": "nafta",
+      "comercio": "Shell",
+      "donde": null,
+      "banco": "santander",
+      "banco_nombre": "Santander Select",
+      "segmento": null,
+      "medios": [
+        "santander_visa"
+      ],
+      "pago": "Shell Box, con la Visa crédito Santander (clientes Select)",
+      "dias": [
+        4
+      ],
+      "desde": "2026-11-01",
+      "hasta": "2026-11-30",
+      "pct": 15,
+      "tope": 15000,
+      "periodo": "mes",
+      "minimo": 0,
+      "tope_grupo": "santander-shell",
+      "confianza": "medios",
+      "nota": "Solo clientes Santander Select, según guía de noviembre. No lo vi en la página de Santander: confirmalo en la app.",
+      "fuente": "https://derechadiario.com.ar/negocios-finanzas/promociones-en-combustibles-como-ahorrar-30-en-ypf-shell-axion-puma-en-noviembre-2026",
+      "fuente_nombre": "La Derecha Diario",
+      "revisada": "2026-11-19"
     }
   ]
 }
