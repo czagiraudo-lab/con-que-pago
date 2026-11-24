@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-20T08:00:00-03:00",
-  "nota": "28 promos: nafta 17, súper 10, comida 1, carnicería 0. Sin novedades confirmadas hoy (todas siguen hasta fin de mes). Hoy viernes: Comafi en Puma 20% y, en súper, DIA y Vea con MODO.",
+  "actualizado": "2026-11-24T08:00:00-03:00",
+  "nota": "28 promos: nafta 17, súper 10, comida 1, carnicería 0. Cambio: ChangoMás con Nación pasa a los lunes (20%, mínimo $75.000). Casi todas vencen el 30/11; las de diciembre todavía no salieron.",
   "promos": [
     {
       "id": "macro-ypf-selecta",
@@ -28,7 +28,7 @@
       "nota": "Noviembre: 30% los miércoles con tope $20.000 por mes, en YPF, Shell, Axion y Puma (iProfesional 02/11 e iProUP 04/11). Comparte tope con la versión común.",
       "fuente": "https://www.iproup.com/finanzas/72893-hasta-30-off-en-nafta-y-combustible-en-noviembre-con-bancos-y-apps-adheridas",
       "fuente_nombre": "iProUP",
-      "revisada": "2026-11-18"
+      "revisada": "2026-11-24"
     },
     {
       "id": "macro-ypf-general",
@@ -56,7 +56,7 @@
       "nota": "Noviembre: 20% los miércoles, tope $8.000 por mes. Si sos Selecta te corresponde la del 30%; comparten tope.",
       "fuente": "https://www.iprofesional.com/energia/468036-ahorros-en-nafta-noviembre-llega-con-descuentas-de-hasta-el-30",
       "fuente_nombre": "iProfesional",
-      "revisada": "2026-11-06"
+      "revisada": "2026-11-24"
     },
     {
       "id": "comafi-ypf-sabado",
@@ -340,7 +340,7 @@
       "nota": "25% en Shell los viernes (20% general + 5% de Shell con tope aparte de $3.000), vigente hasta enero. Confirmalo en BNA+.",
       "fuente": "https://semananacion.com.ar/semananacion/shell",
       "fuente_nombre": "Semana Nación",
-      "revisada": "2026-11-02"
+      "revisada": "2026-11-24"
     },
     {
       "id": "nacion-gulf-viernes",
@@ -368,7 +368,7 @@
       "nota": "Viernes 20%, tope $10.000 por mes por CUIT (se llega cargando $50.000 en los viernes del mes). Solo crédito. Activa hasta el 31/01/2027 según Calcular Sueldo (01/11). Comparte tope con la de Shell del mismo día.",
       "fuente": "https://calcularsueldo.com.ar/finanzas/16392/combustible-estos-son-los-beneficios-con-banco-nacion-en-noviembre-2026.html",
       "fuente_nombre": "Calcular Sueldo",
-      "revisada": "2026-11-05"
+      "revisada": "2026-11-24"
     },
     {
       "id": "mp-dia-miercoles",
@@ -466,22 +466,22 @@
         "nacion_visa",
         "nacion_master"
       ],
-      "pago": "MODO BNA+, con Visa o Mastercard crédito del Nación",
+      "pago": "MODO BNA+, con tarjeta del Nación",
       "dias": [
-        3
+        1
       ],
       "desde": "2026-11-01",
       "hasta": "2026-11-30",
-      "pct": 35,
-      "tope": 15000,
+      "pct": 20,
+      "tope": 25000,
       "periodo": "mes",
-      "minimo": 0,
+      "minimo": 75000,
       "tope_grupo": "nacion-changomas",
       "confianza": "medios",
-      "nota": "Era de octubre; no encontré las bases de noviembre. Solo compras presenciales. Confirmalo en BNA+.",
-      "fuente": "https://www.losandes.com.ar/economia/modo-y-bna-el-truco-ahorrar-45000-supermercados-octubre-n6010074",
-      "fuente_nombre": "Los Andes",
-      "revisada": "2026-11-02"
+      "nota": "Nación (iProfesional 18/11): ChangoMás los lunes 20%, tope $25.000 por mes, compra mínima $75.000, hasta el 30/11. Ya no es la del miércoles de octubre.",
+      "fuente": "https://www.iprofesional.com/finanzas/469303-banco-nacion-descuentos-en-supermercados-y-combustibles",
+      "fuente_nombre": "iProfesional",
+      "revisada": "2026-11-24"
     },
     {
       "id": "modo-changomas-lunes",
@@ -535,7 +535,7 @@
       "nota": "MODO publica «20% en Vea» para noviembre. Día (viernes), compra mínima $100.000 y tope $25.000 por mes y por banco son de julio; confirmalo en la app.",
       "fuente": "https://www.modo.com.ar/promos/vea-noviembre26",
       "fuente_nombre": "MODO",
-      "revisada": "2026-11-02"
+      "revisada": "2026-11-24"
     },
     {
       "id": "modo-dia",
@@ -563,7 +563,7 @@
       "nota": "Viernes y sábado 20%, tope $20.000 por mes y por banco, compra mínima $35.000 (nota de noviembre sobre DIA). Débito o crédito de bancos adheridos.",
       "fuente": "https://www.modo.com.ar/promos/superdia-noviembre26",
       "fuente_nombre": "MODO",
-      "revisada": "2026-11-07"
+      "revisada": "2026-11-24"
     },
     {
       "id": "nacion-dia-finde",
@@ -755,7 +755,7 @@
       "nota": "Noviembre: 10% los miércoles solo en V-Power (no en Súper), tope $5.000 por semana (otra nota dice $4.000: fijate en Shell Box). Se puede sumar a la promo del banco si pagás con MODO desde Shell Box.",
       "fuente": "https://derechadiario.com.ar/negocios-finanzas/promociones-en-combustibles-como-ahorrar-30-en-ypf-shell-axion-puma-en-noviembre-2026",
       "fuente_nombre": "La Derecha Diario",
-      "revisada": "2026-11-08"
+      "revisada": "2026-11-24"
     },
     {
       "id": "santander-shell-jueves",
